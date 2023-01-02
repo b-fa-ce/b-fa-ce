@@ -1,5 +1,5 @@
-# 🌳 About Me:
-👩‍💻 Developer based in Germany
+# 🧑‍🔬 About Me:
+👩‍💻 Developer based in Germany<br><br>
 Connect with me on [Linkedin](https://www.linkedin.com/in/b-fc/) <br><br>
 
 🔭📖 Currently learning Frontend & testing fundamentals (JavaScript, Cypress) <br><br>
@@ -25,8 +25,6 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/b-fc/) <br><br>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
     </div>
   </td>
-
-<table><tr>
 
   <td valign="top" width="33%">
     <div align="center">
